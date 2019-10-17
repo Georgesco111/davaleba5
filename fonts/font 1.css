@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'LiuJianMaoCao-Regular';
+  src: url('LiuJianMaoCao-Regular.eot');
+  src: url('LiuJianMaoCao-Regular.eot?#iefix') format('embedded-opentype'),
+       url('LiuJianMaoCao-Regular.svg#LiuJianMaoCao-Regular') format('svg'),
+       url('LiuJianMaoCao-Regular.ttf') format('truetype'),
+       url('LiuJianMaoCao-Regular.woff') format('woff'),
+       url('LiuJianMaoCao-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
